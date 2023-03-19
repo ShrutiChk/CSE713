@@ -2,7 +2,7 @@ Submission 3: Book chapter presentation
 Chapter 5:    Logistic Regression
 
 Link to unlisted youtube video: 
-
+https://youtu.be/a23rPZIBFqw
 
 
 Two public link to the Concept Map (anyone on the internet can view without login): 
