@@ -11,7 +11,7 @@ Paper title:
 Comparison of Machine Learning Models for Early Prediction of Diabetes With LIME Interpretability
 
 Paper presentation (anyone can view without login):
-
+https://github.com/ShrutiChk/CSE713/blob/main/submission6%20and%207/Comparison%20of%20Machine%20Learning%20Models%20for%20Early%20Prediction%20of%20Diabetes%20with%20LIME%20Interpretability.pdf
 
 Paper submission date (to workshop/conference):
 26 April, 2023
